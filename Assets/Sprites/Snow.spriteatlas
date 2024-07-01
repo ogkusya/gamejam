@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snow
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Windows Store Apps
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ca80059b746df3341b978c431e48b402, type: 3}
+    - {fileID: 2800000, guid: c6141244d55347247a1250270177035f, type: 3}
+    - {fileID: 2800000, guid: c6141244d55347247a1250270177035f, type: 3}
+    - {fileID: 2800000, guid: 6614f5324108b46418b6271f4672065c, type: 3}
+    - {fileID: 2800000, guid: 9d56c9203939d874db81e0fa4dd8e794, type: 3}
+    - {fileID: 2800000, guid: c02d0bcd318757f4e93fa80849f8eed9, type: 3}
+    - {fileID: 2800000, guid: a94b955e61f5d894a8eba15894ecf369, type: 3}
+    - {fileID: 2800000, guid: 7a2998dec6482974489f695ad85becc6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 9d56c9203939d874db81e0fa4dd8e794: 21300000
+    - 6614f5324108b46418b6271f4672065c: 21300000
+    - c6141244d55347247a1250270177035f: 21300000
+    - ca80059b746df3341b978c431e48b402: 21300000
+    - c02d0bcd318757f4e93fa80849f8eed9: 21300000
+    - a94b955e61f5d894a8eba15894ecf369: 21300000
+    - 7a2998dec6482974489f695ad85becc6: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9d56c9203939d874db81e0fa4dd8e794, type: 3}
+  - {fileID: 21300000, guid: 6614f5324108b46418b6271f4672065c, type: 3}
+  - {fileID: 21300000, guid: c6141244d55347247a1250270177035f, type: 3}
+  - {fileID: 21300000, guid: ca80059b746df3341b978c431e48b402, type: 3}
+  - {fileID: 21300000, guid: c02d0bcd318757f4e93fa80849f8eed9, type: 3}
+  - {fileID: 21300000, guid: a94b955e61f5d894a8eba15894ecf369, type: 3}
+  - {fileID: 21300000, guid: 7a2998dec6482974489f695ad85becc6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Snow5
+  - Snow4
+  - Snow3
+  - Snow1
+  - Snow6
+  - Snow7
+  - Snow8
+  m_RenderDataMap: {}
+  m_Tag: Snow
+  m_IsVariant: 0
